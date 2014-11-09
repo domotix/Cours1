@@ -1,6 +1,10 @@
 Test1::Application.routes.draw do
+<<<<<<< HEAD
   resources :shows
 
+=======
+  get "home/index"
+>>>>>>> 17b83f2bbe145330f6abf88608b44c54d74e89a7
 
 #  get "home/index"
 
